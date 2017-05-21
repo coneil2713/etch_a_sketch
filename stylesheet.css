@@ -1,0 +1,40 @@
+body {
+  background: #94618E;
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  color: #F8EEE7;
+  font-family: Tahoma;
+  text-align: center;
+}
+
+button {
+  line-height: 30px;
+  width: 115px;
+  border: solid 1px #F8EEE7;
+  background: #94618E;
+  font-weight: bold;
+  color: #F8EEE7;
+  position: block;
+  margin: 15px;
+  }
+  
+button:hover {
+  border: solid 3px #F8EEE7;
+}
+
+#container {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  position: block;
+}
+
+.square {
+  outline: 1px solid #A9A9A9;
+  background: #F4DECB;
+  display: inline-block;
+  vertical-align: top;
+}
